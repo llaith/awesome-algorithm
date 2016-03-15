@@ -1,4 +1,5 @@
 import java.util.*;
+
 public class Selection {
     public static void sort(Comparable[] a) {
 	int num = a.length;
@@ -7,7 +8,7 @@ public class Selection {
 	    int min = i;
 	    for(int j = i + 1; j < num; j++) {
 		if(Util.less(a[j], a[min]))
-		    min = j;
+		    min = j;  
 	    }
 	    Util.exch(a, i, min);
         }
