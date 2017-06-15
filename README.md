@@ -7,10 +7,5 @@
 
 ## 目录
 
-+ ranking 这个系列是所有排序算法的集合，目前包含如下算法
- + Hacker News
- + Reddit
- + Stack Overflow
- + 牛顿冷却定律
- + 威尔逊区间
- + 贝叶斯平均
+- [ranking](ranking/readme.md)
+- [sort](sort/readme.md)
