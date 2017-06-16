@@ -12,9 +12,7 @@ z = (x != 0)? abs(x) : 1 。 z 是赞成票与反对票的差的绝对值。
 reddit 的得分计算公式如下：
 
 
-$$
-score = \log_{10}(z) + \frac{yt}{45000}
-$$
+[公式](http://chart.googleapis.com/chart?cht=tx&chl=\Large%20x=\log_{10}(z)+\frac{yt}{45000})
 
 
 这个公式有两个部分，从前半部分我们可以看到，当z等于10的时候，才意味着可以得到一份，要想得到2分，z 就得到
