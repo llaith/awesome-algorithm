@@ -3,6 +3,9 @@ import java.util.*;
 
 public class Shell {
 
+    /**
+     * shell sort
+     */
     public static void sort(Comparable[] a) {
         int num = a.length;
         int h = 1;
@@ -19,8 +22,7 @@ public class Shell {
 
             h = h /3;
         }
-    }
-
+    
 
 
     public static void main(String[] args) {
