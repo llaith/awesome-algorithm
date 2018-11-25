@@ -22,6 +22,7 @@ reddit 的得分计算公式如下：
 
 代码实现:
 
+
 ```java
 
 public static Double ranking(Long t, int x, int y){
