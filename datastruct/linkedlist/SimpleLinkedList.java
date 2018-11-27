@@ -5,7 +5,6 @@ public class SimpleLinkedList {
 
     private Node head;
 
-
     public void deleteNode(int data) {
         Node index = head;
 
@@ -45,7 +44,7 @@ public class SimpleLinkedList {
 
    
     
-    
+
     public static void main(String[] args) {
         SimpleLinkedList simpleLinkedList = new SimpleLinkedList();
         
