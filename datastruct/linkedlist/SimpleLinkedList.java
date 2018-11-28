@@ -6,19 +6,24 @@ public class SimpleLinkedList {
     private Node head;
 
 
-    public void deleteNode(int data) {
+    public void delete(int data) {
         Node index = head;
+
+        if(head.data == data) {
+            head = head.next;
+        }
 
         while(index.next != null) {
             if(index.next.data == data) {
                 index.next = index.next.next;
                 break;
             }
+            index = index.next;
         }
     }
 
 
-    public void addNode(int data) {
+    public void insert(int data) {
         Node node = new Node(data);
 
         if(head == null) {
@@ -49,9 +54,10 @@ public class SimpleLinkedList {
     public static void main(String[] args) {
         SimpleLinkedList simpleLinkedList = new SimpleLinkedList();
         
-        simpleLinkedList.addNode(1);
-        simpleLinkedList.addNode(2);
-        simpleLinkedList.addNode(3);
+        simpleLinkedList.insert(1);
+        simpleLinkedList.insert(2);
+        simpleLinkedList.insert(3);
+        simpleLinkedList.insert(4);
 
         Node index = simpleLinkedList.head;
 
@@ -60,8 +66,9 @@ public class SimpleLinkedList {
             index = index.next;
         }
 
-        simpleLinkedList.deleteNode(2);
+        simpleLinkedList.delete(4);
         
+        index = simpleLinkedList.head;
         while(index != null) {
             System.out.println(index.data);
             index = index.next;
