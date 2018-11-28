@@ -1,8 +1,8 @@
 
 /**
- * DoubleLinkedList
+ * doubleCycleLinkedList
  */
-public class DoubleLinkedList {
+public class DoubleCycleLinkedList {
 
     private Node head;
 
@@ -70,28 +70,26 @@ public class DoubleLinkedList {
     }
 
     public static void main(String[] args) {
-        DoubleLinkedList doubleLinkedList = new DoubleLinkedList();
+        DoubleCycleLinkedList doubleCycleLinkedList = new DoubleCycleLinkedList();
 
-        doubleLinkedList.insert(1);
-        doubleLinkedList.insert(2);
-        doubleLinkedList.insert(3);
-        doubleLinkedList.insert(4);
+        doubleCycleLinkedList.insert(1);
+        doubleCycleLinkedList.insert(2);
+        doubleCycleLinkedList.insert(3);
+        doubleCycleLinkedList.insert(4);
 
-        Node index = doubleLinkedList.head;
+        Node index = doubleCycleLinkedList.head;
         do {
             System.out.println(index.data);
             index = index.next;
-        }while(index != doubleLinkedList.head);
+        }while(index != doubleCycleLinkedList.head);
 
-        doubleLinkedList.delete(4);
+        doubleCycleLinkedList.delete(4);
 
-        index = doubleLinkedList.head;
+        index = doubleCycleLinkedList.head;
        do{
             System.out.println(index.data);
             index = index.next;
-        } while(index != doubleLinkedList.head);
-
-
+        } while(index != doubleCycleLinkedList.head);
 
     }
     
