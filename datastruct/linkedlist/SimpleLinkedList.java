@@ -50,7 +50,7 @@ public class SimpleLinkedList {
 
    
     
-    
+
     public static void main(String[] args) {
         SimpleLinkedList simpleLinkedList = new SimpleLinkedList();
         
