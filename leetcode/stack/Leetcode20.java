@@ -28,7 +28,6 @@ public class Leetcode20 {
                 }
             }
         }
-
         if(!stack.empty()) {
             return false;
         }
