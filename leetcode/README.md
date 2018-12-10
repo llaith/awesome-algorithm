@@ -15,3 +15,9 @@
 - [Leetcode232](https://leetcode.com/problems/implement-queue-using-stacks/)
 - [Leetcode225](https://leetcode.com/problems/implement-queue-using-stacks/)
 - [Leetcode20](https://leetcode.com/problems/valid-parentheses/)
+
+
+
+#### 哈希表（散列表）
+
+- [leetcode242](https://leetcode.com/problems/valid-anagram/)
