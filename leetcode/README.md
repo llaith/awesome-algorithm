@@ -20,4 +20,5 @@
 
 #### 哈希表（散列表）
 
-- [leetcode242](https://leetcode.com/problems/valid-anagram/)
+- [Leetcode242](https://leetcode.com/problems/valid-anagram/)
+- [Leetcode1](https://leetcode.com/problems/two-sum/solution/)
