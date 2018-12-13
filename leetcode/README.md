@@ -4,6 +4,7 @@
 #### 数组
 
 - [Leetcode566](https://leetcode.com/problems/reshape-the-matrix/)
+- [leetcode896](https://leetcode.com/problems/monotonic-array/)
 
 
 
