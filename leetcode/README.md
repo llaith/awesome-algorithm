@@ -5,6 +5,7 @@
 
 - [Leetcode566](https://leetcode.com/problems/reshape-the-matrix/)
 - [leetcode896](https://leetcode.com/problems/monotonic-array/)
+- [leetcode888](https://leetcode.com/problems/fair-candy-swap/)
 
 
 
