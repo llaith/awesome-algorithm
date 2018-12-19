@@ -16,6 +16,7 @@
 - [leetcode167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [leetcode697](https://leetcode.com/problems/degree-of-an-array/)
 - [leetcode661](https://leetcode.com/problems/image-smoother/)
+- [leetcode268](https://leetcode.com/problems/missing-number/)
 
 
 
