@@ -6,6 +6,17 @@
 - [Leetcode566](https://leetcode.com/problems/reshape-the-matrix/)
 - [leetcode896](https://leetcode.com/problems/monotonic-array/)
 - [leetcode888](https://leetcode.com/problems/fair-candy-swap/)
+- [leetcode485](https://leetcode.com/problems/max-consecutive-ones/)
+- [leetcode283](https://leetcode.com/problems/move-zeroes/)
+- [leetcode448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+- [leetcode169](https://leetcode.com/problems/majority-element/)
+- [leetcode122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+- [leetcode217](https://leetcode.com/problems/contains-duplicate/)
+- [leetcode717](https://leetcode.com/problems/1-bit-and-2-bit-characters/)
+- [leetcode167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+- [leetcode697](https://leetcode.com/problems/degree-of-an-array/)
+- [leetcode661](https://leetcode.com/problems/image-smoother/)
+- [leetcode268](https://leetcode.com/problems/missing-number/)
 
 
 
