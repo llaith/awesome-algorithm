@@ -17,6 +17,8 @@
 - [leetcode697](https://leetcode.com/problems/degree-of-an-array/)
 - [leetcode661](https://leetcode.com/problems/image-smoother/)
 - [leetcode268](https://leetcode.com/problems/missing-number/)
+- [leetcode830](https://leetcode.com/problems/positions-of-large-groups/)
+- [leetcode121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 
 
