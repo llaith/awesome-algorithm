@@ -19,6 +19,7 @@
 - [leetcode268](https://leetcode.com/problems/missing-number/)
 - [leetcode830](https://leetcode.com/problems/positions-of-large-groups/)
 - [leetcode121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [leetcode628](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 
 
 

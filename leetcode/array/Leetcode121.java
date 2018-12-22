@@ -22,7 +22,6 @@ public class Leetcode121 {
         return result;
     }
 
-
     public static void main(String[] args) {
         Leetcode121 leetcode121 = new Leetcode121();
         // int prices[] = {7,1,5,3,6,4};
