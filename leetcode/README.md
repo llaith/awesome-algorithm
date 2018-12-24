@@ -21,6 +21,7 @@
 - [leetcode121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [leetcode628](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 - [leetcode746](https://leetcode.com/problems/min-cost-climbing-stairs/)
+- [leetcode118](https://leetcode.com/problems/pascals-triangle/)
 
 
 
