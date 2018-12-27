@@ -22,6 +22,7 @@
 - [leetcode628](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 - [leetcode746](https://leetcode.com/problems/min-cost-climbing-stairs/)
 - [leetcode118](https://leetcode.com/problems/pascals-triangle/)
+- [leetcode119](https://leetcode.com/problems/pascals-triangle-ii/)
 - [leetcode674](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
 - [leetcode27](https://leetcode.com/problems/remove-element/)
 - [leetcode53](https://leetcode.com/problems/maximum-subarray/)
