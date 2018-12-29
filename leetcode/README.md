@@ -27,6 +27,7 @@
 - [leetcode27](https://leetcode.com/problems/remove-element/)
 - [leetcode53](https://leetcode.com/problems/maximum-subarray/)
 - [leetcode66](https://leetcode.com/problems/plus-one/)
+- [leetcode747](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)
 
 
 
