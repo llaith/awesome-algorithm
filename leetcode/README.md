@@ -28,6 +28,7 @@
 - [leetcode53](https://leetcode.com/problems/maximum-subarray/)
 - [leetcode66](https://leetcode.com/problems/plus-one/)
 - [leetcode747](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)
+- [leetcode724](https://leetcode.com/problems/find-pivot-index/)
 
 
 
