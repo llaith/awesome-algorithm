@@ -10,7 +10,6 @@ public class Leetcode643 {
         if (nums.length < k) {
             return result;
         }
-
         double sum[] = new double[nums.length];
         sum[0] = nums[0];
         for (int i = 1; i < nums.length; i++) {
