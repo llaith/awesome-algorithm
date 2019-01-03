@@ -5,13 +5,13 @@
 public class BinarySearch {
 
     public int binarySearch(int[] nums, int target) {
-        int result = 0;
+        int result = -1;
         
         int begin = 0;
         int end = nums.length - 1;
 
         while (begin <= end) {
-            int mid = (begin + end) / 2;
+            int mid = begin + ((end - begin) >> 1);
             if (nums[mid] == target) {
                 result = mid;
                 break;
