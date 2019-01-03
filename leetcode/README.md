@@ -30,6 +30,7 @@
 - [leetcode747](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)
 - [leetcode724](https://leetcode.com/problems/find-pivot-index/)
 - [leetcode849](https://leetcode.com/problems/maximize-distance-to-closest-person/)
+- [leetcode643](https://leetcode.com/problems/maximum-average-subarray-i/) **A**
 
 
 
