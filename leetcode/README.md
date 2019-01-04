@@ -31,6 +31,8 @@
 - [leetcode724](https://leetcode.com/problems/find-pivot-index/)
 - [leetcode849](https://leetcode.com/problems/maximize-distance-to-closest-person/)
 - [leetcode643](https://leetcode.com/problems/maximum-average-subarray-i/) **A**
+- [leetcode840](https://leetcode.com/problems/magic-squares-in-grid/)
+- [leetcode941](https://leetcode.com/problems/valid-mountain-array/)
 
 
 
