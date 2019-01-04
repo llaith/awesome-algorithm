@@ -33,6 +33,7 @@
 - [leetcode643](https://leetcode.com/problems/maximum-average-subarray-i/) **A**
 - [leetcode840](https://leetcode.com/problems/magic-squares-in-grid/)
 - [leetcode941](https://leetcode.com/problems/valid-mountain-array/)
+- [leetcode88](https://leetcode.com/problems/merge-sorted-array/)
 
 
 
