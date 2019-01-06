@@ -54,6 +54,10 @@
 - [Leetcode20](https://leetcode.com/problems/valid-parentheses/)
 
 
+#### 树
+
+- [Leetcode111](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+
 
 #### 哈希表（散列表）
 
