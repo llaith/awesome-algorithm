@@ -9,7 +9,12 @@ public class Leetcode111 {
             return 0;
         }
         int leftDepth = minDepth(root.left);
-        int rightDepth = minDepth(root.rightDepth);
+        int rightDepth = minDepth(root.right);
+
+        if (leftDepth == 0 || rightDepth == 0) {
+            return leftDepth + rightDepth + 1;
+        }
+
         return Math.min(leftDepth, rightDepth) + 1;
     }
 
