@@ -44,6 +44,7 @@
 - [Leetcode24](https://leetcode.com/problems/swap-nodes-in-pairs/)
 - [Leetcode141](https://leetcode.com/problems/linked-list-cycle/)
 - [Leetcode25](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+- [leetcode147](https://leetcode.com/problems/insertion-sort-list/)
 
 
 #### 栈
@@ -64,3 +65,9 @@
 
 - [Leetcode242](https://leetcode.com/problems/valid-anagram/)
 - [Leetcode1](https://leetcode.com/problems/two-sum/solution/)
+
+
+
+#### 其他
+
+- [leetcode149](https://leetcode.com/problems/max-points-on-a-line/) **N**
