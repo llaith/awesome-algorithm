@@ -10,21 +10,21 @@ public class Leetcode147 {
         p.next = head;
         head = p;
 
-        ListNode begin = head;  // 有序序列的开头
-        ListNode index = head;  // 有序序列的结尾
-        p = head.next;  
-        while(p != null) {
+        ListNode begin = head; // 有序序列的开头
+        ListNode index = head; // 有序序列的结尾
+        p = head.next;
+        while (p != null) {
             ListNode i = head;
             // 在没有遍历到有序序列结尾的情况下继续比较
-            while(i !=index && begin.next != null) {
-                if (p.val < begin.next.val) {  //找到位置，插入
+            while (i != index && begin.next != null) {
+                if (p.val < begin.next.val) { // 找到位置，插入
                     index.next = p.next;
                     p.next = begin.next;
                     begin.next = p;
                     p = index.next;
                     begin = head;
                     break;
-                } else { //没有找到位置，继续遍历
+                } else { // 没有找到位置，继续遍历
                     begin = begin.next;
                     i = i.next;
                 }
