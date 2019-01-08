@@ -42,4 +42,13 @@ public class RecursionTraversal {
         postOrder(root.right);
         System.out.print(root.left + " ");
     }
+
+
+    /**
+     * 按层遍历
+     * @param root
+     */
+    public void levelOrder(TreeNode root) {
+        
+    }
 }
