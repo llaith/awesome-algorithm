@@ -5,19 +5,20 @@
 public class Leetcode143 {
 
     public void reorderList(ListNode head) {
-        ListNode temp1 = null;
-        ListNode temp2 = null;
-        temp1 = head;
-        temp2 = temp1;
-        while(temp2.next != null) {
-            ListNode temp3 = temp2.next;
-            temp1.next = null;
-            temp2.next = temp1;
-            temp1 = temp2;
-            temp2 = temp3;
+        ListNode middle = null;
+        ListNode p1 = null;
+        middle = head;
+        p1 = head;
+        while(p1.next != null && p1.next.next != null) {
+            middle = middle.next;
+            p1 = p1.next.next;
         }
-        ListNode end = temp2;
 
+        ListNode curNode = middle.next;
+        ListNode p2 = middle.next.next;
+        while(curNode != null) {
+            
+        }
         
 
     }
