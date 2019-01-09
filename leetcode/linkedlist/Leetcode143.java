@@ -15,12 +15,14 @@ public class Leetcode143 {
         }
 
         ListNode curNode = middle.next;
-        ListNode p2 = middle.next.next;
-        while(curNode != null) {
-            
+        while(curNode.next != null) {
+            ListNode p2 = curNode.next;
+            ListNode p3 = p2.next;
+            p2.next = curNode;
+            curNode = p2;
+            p2 = p3;
         }
         
-
     }
     
     public static void main(String[] args) {
@@ -34,9 +36,9 @@ public class Leetcode143 {
         node1.next = node2;
         node2.next = node3;
 
-        ListNode result = leetcode143.reorderList(head);
+        leetcode143.reorderList(head);
 
-        ListNode index = result;
+        ListNode index = head;
         while (index != null) {
             System.out.println(index.val);
             index = index.next;
