@@ -29,7 +29,6 @@ public class Leetcode143 {
         }
         middle.next = curNode;
 
-
         // 将两部分的连接重新组合
         ListNode p4 = head;
         ListNode p5 = middle.next;
