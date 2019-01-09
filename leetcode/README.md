@@ -45,6 +45,7 @@
 - [Leetcode141](https://leetcode.com/problems/linked-list-cycle/)
 - [Leetcode25](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 - [leetcode147](https://leetcode.com/problems/insertion-sort-list/)
+- [leetcode143](https://leetcode.com/problems/reorder-list/)
 
 
 #### 栈
@@ -60,6 +61,7 @@
 
 - [Leetcode111](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 - [leetcode145](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+- [leetcode144](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 
 
 #### 哈希表（散列表）
