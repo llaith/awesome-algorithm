@@ -35,6 +35,7 @@
 - [leetcode941](https://leetcode.com/problems/valid-mountain-array/)
 - [leetcode88](https://leetcode.com/problems/merge-sorted-array/)
 - [leetcode219](https://leetcode.com/problems/contains-duplicate-ii/)
+- [Leetcode914](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)
 
 
 
@@ -70,6 +71,10 @@
 - [Leetcode242](https://leetcode.com/problems/valid-anagram/)
 - [Leetcode1](https://leetcode.com/problems/two-sum/solution/)
 
+
+#### 动态规划（DP）
+
+- [leetcode139](https://leetcode.com/problems/word-break/)
 
 
 #### 其他
