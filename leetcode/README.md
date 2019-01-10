@@ -46,6 +46,7 @@
 - [Leetcode25](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 - [leetcode147](https://leetcode.com/problems/insertion-sort-list/)
 - [leetcode143](https://leetcode.com/problems/reorder-list/)
+- [leetcode142](https://leetcode.com/problems/linked-list-cycle-ii/)
 
 
 #### 栈

@@ -1,4 +1,3 @@
-import Leetcode24.ListNode;
 
 /**
  * Leetcode147
