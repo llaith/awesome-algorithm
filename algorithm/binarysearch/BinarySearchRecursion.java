@@ -10,6 +10,7 @@ public class BinarySearchRecursion {
     }
 
     private int binarySearchRecursion(int[] nums, int begin, int end, int target) {
+
         int mid = begin + ((end - begin) >> 1);
         if (begin > end) {
             return -1;
