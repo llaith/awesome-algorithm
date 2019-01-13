@@ -35,6 +35,7 @@
 - [leetcode941](https://leetcode.com/problems/valid-mountain-array/)
 - [leetcode88](https://leetcode.com/problems/merge-sorted-array/)
 - [leetcode219](https://leetcode.com/problems/contains-duplicate-ii/)
+- [Leetcode914](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)
 
 
 
@@ -44,6 +45,9 @@
 - [Leetcode24](https://leetcode.com/problems/swap-nodes-in-pairs/)
 - [Leetcode141](https://leetcode.com/problems/linked-list-cycle/)
 - [Leetcode25](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+- [leetcode147](https://leetcode.com/problems/insertion-sort-list/)
+- [leetcode143](https://leetcode.com/problems/reorder-list/)
+- [leetcode142](https://leetcode.com/problems/linked-list-cycle-ii/)
 
 
 #### 栈
@@ -52,14 +56,27 @@
 - [Leetcode232](https://leetcode.com/problems/implement-queue-using-stacks/)
 - [Leetcode225](https://leetcode.com/problems/implement-queue-using-stacks/)
 - [Leetcode20](https://leetcode.com/problems/valid-parentheses/)
+- [Leetcode150](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 
 
 #### 树
 
 - [Leetcode111](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+- [leetcode145](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+- [leetcode144](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 
 
 #### 哈希表（散列表）
 
 - [Leetcode242](https://leetcode.com/problems/valid-anagram/)
 - [Leetcode1](https://leetcode.com/problems/two-sum/solution/)
+
+
+#### 动态规划（DP）
+
+- [leetcode139](https://leetcode.com/problems/word-break/)
+
+
+#### 其他
+
+- [leetcode149](https://leetcode.com/problems/max-points-on-a-line/) **N**
