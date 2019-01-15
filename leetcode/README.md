@@ -49,6 +49,7 @@
 - [leetcode147](https://leetcode.com/problems/insertion-sort-list/)
 - [leetcode143](https://leetcode.com/problems/reorder-list/)
 - [leetcode142](https://leetcode.com/problems/linked-list-cycle-ii/)
+- [leetcode138](https://leetcode.com/problems/copy-list-with-random-pointer/)
 
 
 #### 栈
@@ -76,6 +77,7 @@
 #### 动态规划（DP）
 
 - [leetcode139](https://leetcode.com/problems/word-break/)
+- [leetcode140](https://leetcode.com/problems/word-break-ii/)
 
 
 #### 其他
