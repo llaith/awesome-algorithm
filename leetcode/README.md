@@ -72,6 +72,9 @@
 
 - [Leetcode242](https://leetcode.com/problems/valid-anagram/)
 - [Leetcode1](https://leetcode.com/problems/two-sum/solution/)
+- [leetcode15](https://leetcode.com/problems/3sum/)
+- [leetcode136](https://leetcode.com/problems/single-number/)
+- [leetcode137](https://leetcode.com/problems/single-number-ii/)
 
 
 #### 动态规划（DP）
