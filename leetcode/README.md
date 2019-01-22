@@ -87,3 +87,9 @@
 #### 其他
 
 - [leetcode149](https://leetcode.com/problems/max-points-on-a-line/) **N**
+
+
+
+#### 贪心算法
+
+- [leetcode134](https://leetcode.com/problems/gas-station/)
