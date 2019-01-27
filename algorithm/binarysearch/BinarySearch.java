@@ -20,6 +20,7 @@ public class BinarySearch {
             } else {
                 end = mid - 1;
             }
+            
         }
 
         return result;
