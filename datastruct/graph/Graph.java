@@ -68,24 +68,25 @@ public class Graph { // 无向图
         for (int i = 0; i < v; i++) {
             prev[i] = -1;
         }
-        recurDfs(s, t, visited, prev);
+        recurDfs(s, t, visited, prev); // 进入递归搜索
         print(prev, s, t);
     }
 
     private void recurDfs(int w, int t, boolean[] visited, int[] prev) {
-        if (found == true) {
+        if (found == true) { // 如果已经找到，直接返回
             return;
         }
         visited[w] = true;
 
-        if (w == t) {
-            found = true;
+        if (w == t) {  // 如果找到，则直接返回
+            found = true; 
             return;
         }
 
+        // 如果没有找到，则接着搜索
         for (int i = 0; i < adj[w].size(); i++) {
             int q = adj[w].get(i);
-            if (!visited[q]) {
+            if (!visited[q]) { // 对于已经搜索过的节点则不再搜索，对于没有搜索过的节点则进入递归搜索
                 prev[q] = w;
                 recurDfs(q, t, visited, prev);
             }
