@@ -50,6 +50,7 @@
 - [leetcode143](https://leetcode.com/problems/reorder-list/)
 - [leetcode142](https://leetcode.com/problems/linked-list-cycle-ii/)
 - [leetcode138](https://leetcode.com/problems/copy-list-with-random-pointer/)
+- [leetcode23](https://leetcode.com/problems/merge-k-sorted-lists/)
 
 
 #### 栈
