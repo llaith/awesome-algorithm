@@ -1,4 +1,3 @@
-import java.util.HashMap;
 import java.util.Stack;
 
 /**
@@ -6,24 +5,18 @@ import java.util.Stack;
  */
 public class Leetcode20 {
 
-    private Stack<Character> stack;
-
-    private HashMap<Character,Character> items;
-
     public boolean isValid(String s) {
-
-        this.stack = new Stack<>();
-        this.items = new HashMap<>();
-
-        items.put(')', '(');
-        items.put(']', '[');
-        items.put('}', '{');
-
+        Stack<Character> stack = new Stack<>();
         for (int i = 0; i < s.length(); i++) {
-            if (s.charAt(i) == '(' || s.charAt(i) == '[' || s.charAt(i) == '{') {
-                stack.push(s.charAt(i));
-            } else {
-                if (stack.empty() || stack.pop() != items.get(s.charAt(i))) {
+            if (s.charAt(i) == '(') {
+                stack.push(')');
+            }else if (s.charAt(i) == '[') {
+                stack.push(']');
+            } else if (s.charAt(i) == '{') {
+                stack.push('}');
+            }
+            else {
+                if (stack.empty() || stack.pop() != s.charAt(i)) {
                     return false;
                 }
             }
