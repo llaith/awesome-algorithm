@@ -5,7 +5,7 @@ public class Leetcode32 {
     public static void main(String[] args) {
         Leetcode32 leetcode32 = new Leetcode32();
         
-        System.out.println(leetcode32.longestValidParentheses("()()"));
+        System.out.println(leetcode32.longestValidParentheses("()(()"));
     }
 
     public int longestValidParentheses(String s) {
