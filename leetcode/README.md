@@ -75,6 +75,11 @@
 - [leetcode144](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 
 
+#### 字符串
+
+- [leetcode344](https://leetcode.com/problems/reverse-string/submissions/)
+
+
 #### 图
 - [leetcode133](https://leetcode.com/problems/clone-graph/)
 
