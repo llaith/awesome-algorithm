@@ -78,6 +78,8 @@
 #### 字符串
 
 - [leetcode344](https://leetcode.com/problems/reverse-string/submissions/)
+- [leetcode151](https://leetcode.com/problems/reverse-words-in-a-string/)
+- [leetcode8](https://leetcode.com/problems/string-to-integer-atoi/)
 
 
 #### 图
