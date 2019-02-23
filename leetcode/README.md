@@ -74,7 +74,7 @@
 - [leetcode145](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 - [leetcode144](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 - [leetcode226](https://leetcode.com/problems/invert-binary-tree/)
-
+- [leetcode104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
 #### 字符串
 
