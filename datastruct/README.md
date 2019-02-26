@@ -1,6 +1,12 @@
 ### 数据结构
 
 
+### Array
+
+- Dynamic scale array
+- Delete a item from array
+- Merge two sorted array
+
 #### 链表实现
 
 - 单链表
