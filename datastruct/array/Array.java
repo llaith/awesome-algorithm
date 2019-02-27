@@ -75,7 +75,7 @@ public class Array {
 	
 	
 	public static void main(String[] args) {	
-		ArrayCustom arrayCustom = new Array();
+		Array arrayCustom = new Array();
 		
 		int[] arr1 = {1,3,5,7,9};
 		int[] arr2 = {2,4,6,8,10};

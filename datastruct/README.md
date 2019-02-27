@@ -6,6 +6,7 @@
 - Dynamic scale array
 - Delete a item from array
 - Merge two sorted array
+- A sorted array implements insert, delete and update
 
 #### 链表实现
 
