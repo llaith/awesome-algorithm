@@ -23,6 +23,29 @@ public class SimpleLinkedList {
     }
 
 
+    public Node revert(Node head) {
+		if (head == null || head.next == null) {
+			return head;
+		}
+		
+		Node prev = head;
+		Node current = prev.next;
+		Node next = current.next;
+		prev.next = null;
+		
+		while(next != null) {
+			current.next = prev;
+			
+			prev = current;
+			current = next;
+			next = next.next;
+		}
+		current.next = prev;
+		head = current;
+		return head;
+	}
+
+
     public void insert(int data) {
         Node node = new Node(data);
 
