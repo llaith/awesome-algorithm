@@ -23,6 +23,9 @@ public class SimpleLinkedList {
     }
 
 
+    /** 
+     * A basic way revert a linkedlist
+     */ 
     public Node revert(Node head) {
 		if (head == null || head.next == null) {
 			return head;
@@ -44,6 +47,35 @@ public class SimpleLinkedList {
 		head = current;
 		return head;
 	}
+
+    /**
+	 * Revert a linkedList by move items 
+	 */
+	public Node revert2(Node head) {
+		
+		if (head == null || head.next == null) {
+			return head;
+		}
+		
+		Node tempHade = new Node(-1);
+		
+		Node current = head;
+		Node next = current.next;
+		
+		while (current != null) {
+			current.next = tempHade.next;
+			tempHade.next = current;
+			
+			current = next;
+			
+			if (next != null) {
+				next = next.next;
+			}
+		}
+		
+		return tempHade.next;
+	}
+	
 
 
     public void insert(int data) {
