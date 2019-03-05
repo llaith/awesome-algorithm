@@ -83,6 +83,7 @@
 - [leetcode344](https://leetcode.com/problems/reverse-string/submissions/)
 - [leetcode151](https://leetcode.com/problems/reverse-words-in-a-string/)
 - [leetcode8](https://leetcode.com/problems/string-to-integer-atoi/)
+- [Leetcode412](https://leetcode.com/problems/fizz-buzz/)
 
 
 #### 图
