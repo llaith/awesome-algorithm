@@ -3,10 +3,10 @@ Set of algorithm, expect consist of all kinds of algorithm, inspired by other Aw
 
 ## catalog
 
-- [datastruct](datastruct/readme.md)
-- [ranking](ranking/readme.md)
-- [sort](sort/readme.md)
-- [LeetCode](leetcode/readme.md)
+- [datastruct](datastruct/README.md)
+- [ranking](ranking/README.md)
+- [sort](sort/README.md)
+- [LeetCode](leetcode/README.md)
 
 ## Contributing
 
