@@ -101,6 +101,7 @@
 - [leetcode137](https://leetcode.com/problems/single-number-ii/)
 - [LeetCode171](https://leetcode.com/problems/excel-sheet-column-number/)
 - [LeetCode387](https://leetcode.com/problems/first-unique-character-in-a-string/)
+- [LeetCode350](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 
 
 #### 动态规划（DP）
