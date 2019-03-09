@@ -1,5 +1,5 @@
 # Awesome Algorithm
-Set of algorithm,expect consist all kinds of algorithm,inspire by other Awesome series.
+Set of algorithm, expect consist of all kinds of algorithm, inspired by other Awesome series.
 
 ## catalog
 
@@ -10,5 +10,5 @@ Set of algorithm,expect consist all kinds of algorithm,inspire by other Awesome 
 
 ## Contributing
 
-Just pull algorithm of you know, add a file and update readme.
+Just pull algorithms you know, add a file and update readme.
 
