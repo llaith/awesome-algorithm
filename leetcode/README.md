@@ -80,12 +80,13 @@
 - [leetcode98](https://leetcode.com/problems/validate-binary-search-tree/)
 - [LeetCode108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 
-#### 字符串
+#### String
 
 - [leetcode344](https://leetcode.com/problems/reverse-string/submissions/)
 - [leetcode151](https://leetcode.com/problems/reverse-words-in-a-string/)
 - [leetcode8](https://leetcode.com/problems/string-to-integer-atoi/)
 - [Leetcode412](https://leetcode.com/problems/fizz-buzz/)
+- [LeetCode191](https://leetcode.com/problems/number-of-1-bits/)
 
 
 #### 图
