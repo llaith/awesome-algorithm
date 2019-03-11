@@ -1,13 +1,14 @@
-# 算法之美
-算法的集合，期望涵盖各个系列的算法，受到各个 Awesome 系列的启发。
+# Awesome Algorithm
+Set of algorithm, expect consist of all kinds of algorithm, inspired by other Awesome series.
 
-## 目录
+## catalog
 
-- [ranking](ranking/readme.md)
-- [sort](sort/readme.md)
+- [datastruct](datastruct/README.md)
+- [ranking](ranking/README.md)
+- [sort](sort/README.md)
+- [LeetCode](leetcode/README.md)
 
+## Contributing
 
-## 贡献
-
-请查看 [贡献](CONTRIBUTING.md) 详细。
+Just pull algorithms you know, add a file and update readme.
 

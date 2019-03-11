@@ -79,6 +79,7 @@
 - [leetcode104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [leetcode98](https://leetcode.com/problems/validate-binary-search-tree/)
 - [LeetCode108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+- [LeetCode101](https://leetcode.com/problems/symmetric-tree/)
 
 #### String
 
@@ -101,6 +102,8 @@
 - [leetcode136](https://leetcode.com/problems/single-number/)
 - [leetcode137](https://leetcode.com/problems/single-number-ii/)
 - [LeetCode171](https://leetcode.com/problems/excel-sheet-column-number/)
+- [LeetCode387](https://leetcode.com/problems/first-unique-character-in-a-string/)
+- [LeetCode350](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 
 
 #### DP
@@ -109,6 +112,7 @@
 - [leetcode140](https://leetcode.com/problems/word-break-ii/)
 - [leetcode135](https://leetcode.com/problems/candy/)
 - [LeetCode101](https://leetcode.com/problems/symmetric-tree/) **N**
+- [LeetCode70](https://leetcode.com/problems/climbing-stairs/)
 
 
 #### 贪心算法
@@ -120,6 +124,7 @@
 
 - [leetcode149](https://leetcode.com/problems/max-points-on-a-line/)
 - [leetcode371](https://leetcode.com/problems/sum-of-two-integers/)
+- [LeetCode202](https://leetcode.com/problems/happy-number/)
 
 
 
