@@ -103,12 +103,12 @@
 - [LeetCode171](https://leetcode.com/problems/excel-sheet-column-number/)
 
 
-#### 动态规划（DP）
+#### DP
 
 - [leetcode139](https://leetcode.com/problems/word-break/)
 - [leetcode140](https://leetcode.com/problems/word-break-ii/)
 - [leetcode135](https://leetcode.com/problems/candy/)
-- [LeetCode101](https://leetcode.com/problems/symmetric-tree/)
+- [LeetCode101](https://leetcode.com/problems/symmetric-tree/) **N**
 
 
 #### 贪心算法
@@ -118,7 +118,7 @@
 
 #### 其他
 
-- [leetcode149](https://leetcode.com/problems/max-points-on-a-line/) **N**
+- [leetcode149](https://leetcode.com/problems/max-points-on-a-line/)
 - [leetcode371](https://leetcode.com/problems/sum-of-two-integers/)
 
 
