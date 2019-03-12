@@ -88,6 +88,7 @@
 - [leetcode8](https://leetcode.com/problems/string-to-integer-atoi/)
 - [Leetcode412](https://leetcode.com/problems/fizz-buzz/)
 - [LeetCode191](https://leetcode.com/problems/number-of-1-bits/)
+- [LeetCode38](https://leetcode.com/problems/count-and-say/)
 
 
 #### 图
