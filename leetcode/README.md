@@ -81,12 +81,14 @@
 - [LeetCode108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 - [LeetCode101](https://leetcode.com/problems/symmetric-tree/)
 
-#### 字符串
+#### String
 
 - [leetcode344](https://leetcode.com/problems/reverse-string/submissions/)
 - [leetcode151](https://leetcode.com/problems/reverse-words-in-a-string/)
 - [leetcode8](https://leetcode.com/problems/string-to-integer-atoi/)
 - [Leetcode412](https://leetcode.com/problems/fizz-buzz/)
+- [LeetCode191](https://leetcode.com/problems/number-of-1-bits/)
+- [LeetCode38](https://leetcode.com/problems/count-and-say/)
 
 
 #### 图
@@ -105,11 +107,12 @@
 - [LeetCode350](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 
 
-#### 动态规划（DP）
+#### DP
 
 - [leetcode139](https://leetcode.com/problems/word-break/)
 - [leetcode140](https://leetcode.com/problems/word-break-ii/)
 - [leetcode135](https://leetcode.com/problems/candy/)
+- [LeetCode101](https://leetcode.com/problems/symmetric-tree/) **N**
 - [LeetCode70](https://leetcode.com/problems/climbing-stairs/)
 
 
@@ -120,9 +123,10 @@
 
 #### 其他
 
-- [leetcode149](https://leetcode.com/problems/max-points-on-a-line/) **N**
+- [leetcode149](https://leetcode.com/problems/max-points-on-a-line/)
 - [leetcode371](https://leetcode.com/problems/sum-of-two-integers/)
 - [LeetCode202](https://leetcode.com/problems/happy-number/)
+- [LeetCode172](https://leetcode.com/problems/factorial-trailing-zeroes/)
 
 
 
