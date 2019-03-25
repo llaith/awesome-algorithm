@@ -55,6 +55,7 @@
 - [leetcode237](https://leetcode.com/problems/remove-linked-list-elements/) 
 - [leetcode203](https://leetcode.com/problems/remove-linked-list-elements/)
 - [LeetCode234](https://leetcode.com/problems/palindrome-linked-list/)
+- [LeetCode160](https://leetcode.com/problems/intersection-of-two-linked-lists/) **N**
 
 
 #### 队列
