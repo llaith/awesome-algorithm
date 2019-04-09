@@ -92,6 +92,8 @@
 - [Leetcode412](https://leetcode.com/problems/fizz-buzz/)
 - [LeetCode191](https://leetcode.com/problems/number-of-1-bits/)
 - [LeetCode38](https://leetcode.com/problems/count-and-say/)
+- [LeetCode28](https://leetcode.com/problems/implement-strstr/)
+- [LeetCode125](https://leetcode.com/problems/valid-palindrome/)
 
 
 #### 图
