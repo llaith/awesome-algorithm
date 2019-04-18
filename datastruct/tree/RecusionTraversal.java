@@ -40,7 +40,7 @@ public class RecursionTraversal {
         }
         postOrder(root.left);
         postOrder(root.right);
-        System.out.print(root.left + " ");
+        System.out.print(root.val + " ");
     }
 
 
