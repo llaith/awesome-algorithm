@@ -43,9 +43,11 @@ public class IteratorTraversal {
                 stack.push(currentNode);
                 currentNode = currentNode.left;
             }
-            currentNode = stack.pop();
-            System.out.print(currentNode.val + " ");
-            currentNode = currentNode.right;
+            if (!stack.empty()) {
+                currentNode = stack.pop();
+                System.out.print(currentNode.val + " ");
+                currentNode = currentNode.right;
+            }
         }
     }
 
