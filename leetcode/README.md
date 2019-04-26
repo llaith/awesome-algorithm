@@ -74,7 +74,7 @@
 - [leetcode32](https://leetcode.com/problems/longest-valid-parentheses/)
 
 
-#### 树
+#### Tree
 
 - [Leetcode111](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 - [leetcode145](https://leetcode.com/problems/binary-tree-postorder-traversal/)
@@ -84,6 +84,7 @@
 - [leetcode98](https://leetcode.com/problems/validate-binary-search-tree/)
 - [LeetCode108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 - [LeetCode101](https://leetcode.com/problems/symmetric-tree/)
+- [Leetcode94](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 
 #### String
 
