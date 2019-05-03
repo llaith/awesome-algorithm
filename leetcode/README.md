@@ -136,4 +136,9 @@
 - [LeetCode172](https://leetcode.com/problems/factorial-trailing-zeroes/)
 
 
+#### SQL
+- [Leetcode620](https://leetcode.com/problems/not-boring-movies/)
+- [Leetcode182](https://leetcode.com/problems/duplicate-emails/)
+- [Leetcode172](https://leetcode.com/problems/combine-two-tables/)
+- [Leetcode181](https://leetcode.com/problems/employees-earning-more-than-their-managers/)
 
