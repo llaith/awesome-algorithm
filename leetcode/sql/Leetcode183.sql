@@ -1,0 +1,1 @@
+select a.name as customers from customers as a left join orders as b on a.id = b.customerId group by a.id having count(b.id) = 0;

@@ -141,4 +141,13 @@
 - [Leetcode182](https://leetcode.com/problems/duplicate-emails/)
 - [Leetcode172](https://leetcode.com/problems/combine-two-tables/)
 - [Leetcode181](https://leetcode.com/problems/employees-earning-more-than-their-managers/)
-
+- [Leetcode183](https://leetcode.com/problems/customers-who-never-order/)
+- [Leetcode197](https://leetcode.com/problems/rising-temperature/)
+- [Leetcode196](https://leetcode.com/problems/delete-duplicate-emails/)
+- [Leetcode176](https://leetcode.com/problems/second-highest-salary/)
+- [Leetcode178](https://leetcode.com/problems/rank-scores)  **IMP**
+- [Leetcode180](https://leetcode.com/problems/consecutive-numbers) **IMP**
+- [Leetcode184](https://leetcode.com/problems/department-highest-salary) **IMP**
+- [leetcode177](https://leetcode.com/problems/nth-highest-salary)
+- [Leetcode185](https://leetcode.com/problems/department-top-three-salaries) **IMP**
+- [Leetcode262](https://leetcode.com/problems/trips-and-users/) **IMP**
