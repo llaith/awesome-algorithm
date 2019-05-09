@@ -39,10 +39,11 @@
 - [leetcode605](https://leetcode.com/problems/can-place-flowers/)
 - [leetcode977](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [Leetcode189](https://leetcode.com/problems/rotate-array/submissions/)
+- [Leetcode238](https://leetcode.com/problems/product-of-array-except-self/)
 
 
 
-#### 链表
+#### LinkedList
 
 - [Leetcode206](https://leetcode.com/problems/reverse-linked-list/)
 - [Leetcode24](https://leetcode.com/problems/swap-nodes-in-pairs/)
@@ -59,12 +60,12 @@
 - [LeetCode160](https://leetcode.com/problems/intersection-of-two-linked-lists/) **N**
 
 
-#### 队列
+#### Queue
 
 - [leetcode239](https://leetcode.com/problems/sliding-window-maximum/)
 
 
-#### 栈
+#### Stack
 
 - [Leetcode844](https://leetcode.com/problems/backspace-string-compare/)
 - [Leetcode232](https://leetcode.com/problems/implement-queue-using-stacks/)
@@ -128,12 +129,13 @@
 - [leetcode134](https://leetcode.com/problems/gas-station/)
 
 
-#### 其他
+#### Others
 
 - [leetcode149](https://leetcode.com/problems/max-points-on-a-line/)
 - [leetcode371](https://leetcode.com/problems/sum-of-two-integers/)
 - [LeetCode202](https://leetcode.com/problems/happy-number/)
 - [LeetCode172](https://leetcode.com/problems/factorial-trailing-zeroes/)
+- [Leetcode204](https://leetcode.com/problems/count-primes/)
 
 
 #### SQL
