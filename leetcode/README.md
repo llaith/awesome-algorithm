@@ -129,6 +129,10 @@
 - [leetcode134](https://leetcode.com/problems/gas-station/)
 
 
+#### Backtracking
+- [Leetcode46](https://leetcode.com/problems/permutations/)
+
+
 #### Others
 
 - [leetcode149](https://leetcode.com/problems/max-points-on-a-line/)
