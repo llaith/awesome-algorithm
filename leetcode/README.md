@@ -99,11 +99,11 @@
 - [LeetCode125](https://leetcode.com/problems/valid-palindrome/)
 
 
-#### 图
+#### Graph
 - [leetcode133](https://leetcode.com/problems/clone-graph/)
 
 
-#### 哈希表（散列表）
+#### HashTable
 
 - [Leetcode242](https://leetcode.com/problems/valid-anagram/)
 - [Leetcode1](https://leetcode.com/problems/two-sum/solution/)
@@ -113,6 +113,10 @@
 - [LeetCode171](https://leetcode.com/problems/excel-sheet-column-number/)
 - [LeetCode387](https://leetcode.com/problems/first-unique-character-in-a-string/)
 - [LeetCode350](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+
+
+#### Heap
+- [Leetcode347](https://leetcode.com/problems/top-k-frequent-elements/submissions/)
 
 
 #### DP
